@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: 'WulkanDisplay';
+  src: url(../fonts/WulkanDisplayMedium.woff2) format('woff2');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Suisseintl';
+  src: url(../fonts/SuisseIntl-Light.woff) format('woff');
+  font-weight: 300;
+} 
+
+
