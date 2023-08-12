@@ -51,7 +51,7 @@
 .side-nav{
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-end;
   min-height: 100vh;
   min-width: 845px;
   z-index: 99;
